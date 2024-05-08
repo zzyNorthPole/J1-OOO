@@ -45,3 +45,5 @@ bin/
 simWorkspace/
 tmp/
 null
+
+.DS_Store
